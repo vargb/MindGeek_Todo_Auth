@@ -1,0 +1,13 @@
+{
+    "server":{
+        "host":"127.0.0.1",
+        "port":"4000"
+    },
+    "postgres":{
+        "host":"localhost",
+        "sqlport":"5432",
+        "user":"postgres",
+        "pass":"postgres",
+        "dbname":"postgres"
+    }
+}
